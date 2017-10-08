@@ -1,2 +1,0 @@
-# FormattingDemoPage
-formatting demo page
